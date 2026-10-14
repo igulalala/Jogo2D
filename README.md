@@ -1,3 +1,1 @@
-👨‍💻 Autor
-Igor 
-Renan
+Igor & Renan
